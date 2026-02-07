@@ -1,9 +1,9 @@
 # 🛡️ Enterprise Identity, Security & Automation Lab
 
-## 📌 Executive Summary
+##  Executive Summary
 Designed and deployed a resilient, enterprise-grade Identity Infrastructure using **Windows Server 2022**. The project simulated a mid-sized organization (`corp.vancity.local`) undergoing a rapid expansion.
 
-## 📸 Project Gallery
+##  Project Gallery
 
 ### Infrastructure & Redundancy
 *Dual Domain Controllers (DC-01 & DC-02) syncing via Active Directory Sites & Services.*
